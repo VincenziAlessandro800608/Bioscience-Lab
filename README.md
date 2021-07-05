@@ -29,7 +29,7 @@ Data Science MSc, Università degli studi di Milano-Bicocca
 ## Obiettivo:
 
 Trovare una storia da raccontare circa il Covid, in particolare:
-- usare i metadati (es. i Paesi, le date) presente dei dataset e integrare i dati covid con i dati delle sequenze (NCBI e GISAID) presenti nei database
+- usare i metadati (es. i Paesi, le date) presenti nei dataset e integrare i dati covid con i dati delle sequenze (NCBI e GISAID) presenti nei database
 - usare strategie di Text Mining per integrare il report con le informazioni presenti nella letteratura scientifica legati alle sequenze molecolari
 - usare strategie di visualizzazione dei dati per mostrare i risultati
 
