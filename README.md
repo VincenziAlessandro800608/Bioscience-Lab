@@ -26,6 +26,8 @@ Data Science MSc, Università degli studi di Milano-Bicocca
 
 [NCBI](https://www.ncbi.nlm.nih.gov/)
 
+[vaccination_data](httpswww.ecdc.europa.euencovid-19data)
+
 ## Obiettivo:
 
 Trovare una storia da raccontare circa il Covid, in particolare:
